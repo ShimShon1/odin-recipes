@@ -1,0 +1,28 @@
+*{
+    text-align: left;
+    line-height: 2;
+}
+
+img{
+    width: 40%;
+    border: 2px solid rgb(251, 252, 255,0.3);
+    box-shadow: 2px 2px 2px 1px black;
+}
+h1,img{
+    text-align: center;
+    display: block;
+    margin: 2% auto;
+}
+
+
+.description{
+    width: 50%;
+}
+
+.this-is{
+    display: block;
+    font-size: 1.2em;
+    font-weight: 500;
+    font-style: italic;
+    margin: 2% auto;
+}
